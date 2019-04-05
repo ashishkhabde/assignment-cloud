@@ -9,17 +9,17 @@ parent: Synchronizing Calendars and Contacts using ownCloud Clients
 
 ***To synchronize calendars with CalDAV***
 1.	Click **Events and Tasks** from the menu, and then click **Calendar Book**, to activate Thunderbird calendar.
-2.	Click **File** from the menu, and then click **New** and select **Calendar** from the options, to create a New Calendar.
-	![Thunderbird file menu page – New Calendar](/images/Thunderbird-file-menu-page-New-Calendar)
+2.	Click **File** from the menu, and then click **New** and select **Calendar** from the options, to create a New Calendar.<br>
+	![Thunderbird file menu page – New Calendar](/images/Thunderbird-file-menu-page-New-Calendar)<br>
 	
 3.	Select any of the following to locate the calendar:
 	- **On My Computer:** Browse the calendar from your local computer.
-	- **On the Network:** Browse the calendar from external system.
-	![Locate your calendar](/images/Locate_your_calendar)
+	- **On the Network:** Browse the calendar from external system.<br>
+	![Locate your calendar](/images/Locate_your_calendar)<br>
 	
 4.	Click **Globe icon** on the Settings dialog box to fetch the CalDAV link.
-5.	Enter the **CalDAV URL** to choose the calendar from ownCloud and click **New Calendar**.
-![Choose Calendar](/images/Choose_Calendar)
+5.	Enter the **CalDAV URL** to choose the calendar from ownCloud and click **New Calendar**.<br>
+![Choose Calendar](/images/Choose_Calendar)<br>
 
 6.	Enter the fields to customize your calendar and click **Next**.
 
@@ -33,9 +33,9 @@ parent: Synchronizing Calendars and Contacts using ownCloud Clients
 
 ![Customize Calendar](/images/Customize_Calendar)
 
-7.	Enter the **Username** and **Password** of ownCloud and click **OK**.
-	*Note:* To remember the password, Select the Use Password Manager to remember this password check box.
-	![Login credentials to access ownCloud calendar](/images/Login_credentials_to_access_ownCloud_calendar)
+7.	Enter the **Username** and **Password** of ownCloud and click **OK**.<br>
+	**Note:** To remember the password, Select the Use Password Manager to remember this password check box.<br>
+	![Login credentials to access ownCloud calendar](/images/Login_credentials_to_access_ownCloud_calendar)<br>
 	
 8.	Thunderbird displays the Calendar. You can now edit your calendar for the required dates.
 
