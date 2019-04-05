@@ -12,7 +12,7 @@ has_children: true
 The ownCloud Web Interface (Web UI) consist of Header, Left, and Right navigation pane.
 Once you logon to ownCloud Web UI, you can add, remove, and share files, and make changes based on the access privileges.
 
-![ownCloud Web UI Home page](/_posts/images/ownCloud-Web-UI-Home-page)
+![ownCloud Web UI Home page](/assets/images/ownCloud-Web-UI-Home-page.jpg)
 The following table provides a brief description of the web UI panes.
 
 |Pane|Description|
