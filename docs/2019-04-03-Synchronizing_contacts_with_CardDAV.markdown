@@ -9,8 +9,8 @@ parent: "Synchronizing Calendars and Contacts using ownCloud Clients"
 
 ***To synchronize contacts with CardDAV***
 1. Click **Tools** from the menu, and then click **Address Book**, to activate Thunderbird address book.
-2. Click **File** from the menu, and then click **New** and select **Remote Address Book** from the options, to create a new Calendar.
-![Accessing thunderbird address book](/images/Accessing_thunderbird_address_book)
+2. Click **File** from the menu, and then click **New** and select **Remote Address Book** from the options, to create a new Calendar.<br>
+![Accessing thunderbird address book](/images/Accessing_thunderbird_address_book.jpg)
 
 3.	Enter the following and click **OK**, to create an address book profile.
 
@@ -22,16 +22,16 @@ parent: "Synchronizing Calendars and Contacts using ownCloud Clients"
 |Read Only|Select or deselect the option to give read or write permission|
 
 
-![Address book profile](/images/Address_book_profile)
+![Address book profile](/images/Address_book_profile.jpg)
 4.	Click **Settings** in the contacts section, to find the URL.
-![ownCloud Settings](/images/ownCloud_Settings)
+![ownCloud Settings](/images/ownCloud_Settings.jpg)
 
 5.	Click **Globe icon** for the required Address Book on the **Settings** dialog box page.
 	Each address book has a different **CardDAV link**.
-	![Selecting the address book](/images/Selecting_the_address_book)
+	![Selecting the address book](/images/Selecting_the_address_book.jpg)
 	
 6.	Right-click **Outreach Contacts** in thunderbird and click **Synchronize**, to synchronize with the remote address book.
-![Synchronizing Address book](/images/Synchronizing_Address_book)
+![Synchronizing Address book](/images/Synchronizing_Address_book.jpg)
 
 7.	Local address book is displayed in thunderbird, where all the contacts are fetched from the ownCloud.
 	You can now add new contacts, edit the address book in thunderbird and synchronize with ownCloud Server.
