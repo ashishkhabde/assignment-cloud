@@ -10,7 +10,7 @@ parent: Synchronizing Calendars and Contacts using ownCloud Clients
 ***To synchronize calendars with CalDAV***
 1.	Click **Events and Tasks** from the menu, and then click **Calendar Book**, to activate Thunderbird calendar.
 2.	Click **File** from the menu, and then click **New** and select **Calendar** from the options, to create a New Calendar.<br>
-![Thunderbird file menu page – New Calendar](/images/Thunderbird-file-menu-page-New-Calendar.jpg)
+![Thunderbird file menu page–New Calendar](/images/Thunderbird-file-menu-page–New-Calendar.jpg)
 	
 3.	Select any of the following to locate the calendar:
 	- **On My Computer:** Browse the calendar from your local computer.
