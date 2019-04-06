@@ -21,8 +21,8 @@ parent: "Synchronizing Calendars and Contacts using ownCloud Clients"
 |URL|Enter the CardDAV URL from the ownCloud Contacts.|
 |Read Only|Select or deselect the option to give read or write permission|
 
-
-	![Address book profile](/images/Address_book_profile.jpg)<br>
+<br>
+	![Address book profile](/images/Address_book_profile.jpg)
 4.	Click **Settings** in the contacts section, to find the URL.<br>
 ![ownCloud Settings](/images/ownCloud_Settings.jpg)
 
