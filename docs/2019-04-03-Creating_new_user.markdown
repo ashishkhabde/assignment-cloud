@@ -12,5 +12,6 @@ nav_order: 2
 Login names may contain alphabets (a-z, A-Z), numbers (0-9), dashes (-), underscores (_), periods (.) and at sign (@).
 2. Assign **Group** to the user.
 3. Click the **Create**.
+
 ![Create user account page](/images/Create_user_account.jpg)
 

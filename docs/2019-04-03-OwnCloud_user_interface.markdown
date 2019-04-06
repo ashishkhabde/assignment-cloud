@@ -11,7 +11,7 @@ has_children: true
 The ownCloud users interface allows you to connect to ownCloud server using any of the web browser. The User management page of your ownCloud Web UI displays the following information:
 - Create, View, and search users
 - View users by group administrator 
-- Search groups and users
+- Search groups and users<br>
 
-![Default view User Management](/images/default_view_user_management.jpg)
+![Default view user management](/images/default_view_user_management.jpg)
 
