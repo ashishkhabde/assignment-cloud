@@ -11,5 +11,6 @@ The ownCloud users interface allows you to connect to ownCloud server using any 
 - Create, View, and search users
 - View users by group administrator 
 - Search groups and users
+
 ![Default view User Management](/images/default_view_user_management)
 

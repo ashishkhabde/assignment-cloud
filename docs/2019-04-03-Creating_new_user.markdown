@@ -1,8 +1,8 @@
 ---
 layout: default
 title:  "Creating new users"
-nav_order: 1
 parent: ownCloud Users Interface
+nav_order: 2
 ---
 
 ### Creating new users
