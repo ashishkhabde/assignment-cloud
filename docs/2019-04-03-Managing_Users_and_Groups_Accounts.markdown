@@ -1,8 +1,7 @@
 ---
 layout: default
 title:  "Managing Users and Groups Accounts"
-nav_order: 2
-parent: Managing external storage support
+nav_order: 5
 has_children: true
 ---
 
